@@ -20,6 +20,7 @@ This project is ideal for:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Interface
-C:\My project\Diabetes_prediction_model\diabetes-prediction-system\screenshots\Screenshot 2025-11-15 203528.png
-
+=======
+_Add a screenshot of your UI here_
+>>>>>>> 93bd40f7026f5c48c1dca36069605647e7ed8247
 

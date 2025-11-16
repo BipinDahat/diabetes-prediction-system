@@ -20,7 +20,7 @@ This project is ideal for:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Interface
-=======
-_Add a screenshot of your UI here_
->>>>>>> 93bd40f7026f5c48c1dca36069605647e7ed8247
 
+![Home Interface](screenshots/Screenshot%202025-11-15%20203528.png)
+
+---
